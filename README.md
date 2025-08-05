@@ -1,6 +1,6 @@
 
 <div>
-<img src="Gif-git.gif" width="400" height="auto" alt="Descrição do gif" />
+<img src="Gif-git.gif" width="400px" height="auto" alt="Descrição do gif" />
 </div>
 
 
