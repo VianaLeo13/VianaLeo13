@@ -51,5 +51,25 @@ Olá , Eu sou o Leonardo Viana!
 </div></p>
 </div> 
 
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://VianaLeo13.github.io/image/spotify.svg?raw=true"/> Vianaleo13 Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+</td>
+
 
 
