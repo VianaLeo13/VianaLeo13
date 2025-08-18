@@ -55,7 +55,7 @@ Olá , Eu sou o Leonardo Viana!
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://VianaLeo13.github.io/image/spotify.svg?raw=true"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" alt="Data Card for Spotify">
 </details>
 </div>
@@ -73,8 +73,7 @@ Olá , Eu sou o Leonardo Viana!
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+
 </td>
 </tr>
 <tr>
