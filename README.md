@@ -55,7 +55,7 @@ Olá , Eu sou o Leonardo Viana!
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://VianaLeo13.github.io/image/spotify.svg?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20"  src="68747470733a2f2f6a6f616f7061756c6f6172616d756e692e6769746875622e696f2f696d6167652f73706f746966792e7376673f7261773d74727565.svg"/> VianaLeo13 Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" alt="Data Card for Spotify">
 </details>
 </div>
