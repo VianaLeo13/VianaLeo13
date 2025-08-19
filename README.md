@@ -60,14 +60,14 @@ Olá , Eu sou o Leonardo Viana!
 </details>
 </div>
 
-<div align="center">
+<div align="left center">
 <table>
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
 <td>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=sr.leonardo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="200px" height="270px" align="left center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=sr.leonardo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 
 </tr>
