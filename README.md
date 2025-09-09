@@ -55,6 +55,17 @@
 
 ---
 
+## ⏳ WakaTime Stats  
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=VianaLeo13&theme=prussian&layout=compact" 
+    alt="WakaTime Stats"
+  />
+</div>
+
+---
+
 ## 🎶 Spotify  
 
 <details>
