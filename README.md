@@ -68,11 +68,13 @@
 
 ## 🎶 Spotify  
 
-<details>
-  <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.svg"/> VianaLeo13 Spotify Data</summary>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" alt="Data Card for Spotify"/>
-</details>
+<img height="20" src="https://joaopauloaramuni.github.io/image/spotify.svg"/>
+<strong> VianaLeo13 Spotify Data</strong>
 
-<div align="center">
-  <img alt="Spotify" width="300px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=sr.leonardo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</div>
+<br><br>
+
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" 
+     alt="Data Card for Spotify"/>
+
+
+
