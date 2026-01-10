@@ -6,9 +6,9 @@
 
 # 👋 Olá, eu sou o Leonardo Viana!  
 
-- 🔭 Estudante de **Engenharia de Software** na **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**.  
-- 🌱 Aprimorando minhas técnicas em **desenvolvimento web full stack**.  
-- ⚡ Curiosidade: Sou apaixonado por **tecnologia**.  
+- 🔭 Estudante de **Engenharia de Software(5º Periodo)** na **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**.  
+- 🌱 Aprimorando minhas técnicas em **desenvolvimento web full stack e IA**.  
+- ⚡ Curiosidade: Sou apaixonado por aprender novas **tecnologias**.  
 
 ---
 
@@ -19,8 +19,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-
 
 
 ### • Frontend & Design
@@ -42,27 +40,38 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-%230575E6.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
+### •My Business
+
+<a href="https://github.com/VianaLeo13" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/G2V%20Games-003791?style=for-the-badge&logo=gamepad&logoColor=white"
+    alt="G2V Games"
+  />
+</a>
+
+
  
-
-
-
-
 
 ---
 
 ## 🌐 Contato  
 
 <div align="center">
+  <a href="https://github.com/VianaLeo13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/vianaleo13" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:leonardovianamov@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leonardo-de-freitas-viana-a31429280/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
 
 ---
 
