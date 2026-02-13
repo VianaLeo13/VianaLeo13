@@ -76,12 +76,15 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VianaLeo13&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VianaLeo13&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VianaLeo13&style=flat-square" alt="Visualizações do perfil"/>
+<a href="https://github.com/VianaLeo13">
+  <img width="48%" src="https://helio-github-stats.vercel.app/api?username=VianaLeo13&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=6&show_icons=true&include_all_commits=true&line_height=20&text_bold=true&disable_animations=false&number_format=short"/>
+</a>
+
+<a href="https://github.com/VianaLeo13">
+  <img width="48%" src="https://github-streak-stats-ruby.vercel.app/?user=VianaLeo13&theme=default&hide_border=false&border_radius=6&locale=pt_BR&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false"/>
+</a>
+
 </div>
 
 ---
