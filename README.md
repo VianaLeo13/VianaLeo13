@@ -86,13 +86,15 @@
 
 ---
 
+
 ## ⏳ WakaTime Stats  
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=VianaLeo13&theme=prussian&layout=compact" 
-    alt="WakaTime Stats"
-  />
+
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=VianaLeo13&custom_title=WakaTime+Stats&card_width=900&line_height=20&layout=compact&display_format=time&disable_animations=false)](https://wakatime.com/@VianaLeo13)
+
+</div>
+
 </div>
 
 ---
