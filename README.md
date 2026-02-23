@@ -107,19 +107,19 @@
 <tr>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/41+eK8zBwQL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/principios-milenares.jpg" width="150px"/><br>
 Princípios Milenares<br>
 Thiago Brunet
 </td>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/51X7dEUF4hL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/como-fazer-amigos.jpg" width="150px"/><br>
 Como Fazer Amigos e Influenciar Pessoas<br>
 Dale Carnegie
 </td>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/41vK5uM3NGL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/motorista-milionario.jpg" width="150px"/><br>
 O Motorista e o Milionário
 </td>
 
@@ -128,19 +128,19 @@ O Motorista e o Milionário
 <tr>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/51oXKWrcYYL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/quem-pensa-enriquece.jpg" width="150px"/><br>
 Quem Pensa Enriquece<br>
 Napoleon Hill
 </td>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/51Xxw0R1yEL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/homem-mais-rico.jpg" width="150px"/><br>
 O Homem Mais Rico da Babilônia<br>
 George S. Clason
 </td>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/41SH-SvWPxL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/clean-code.jpg" width="150px"/><br>
 Clean Code<br>
 Robert C. Martin
 </td>
@@ -150,7 +150,7 @@ Robert C. Martin
 <tr>
 
 <td align="center">
-<img src="https://m.media-amazon.com/images/I/51Zymoq7UnL._SY445_SX342_.jpg" width="140px"/><br>
+<img src="Assets/entendendo-algoritmos.jpg" width="150px"/><br>
 Entendendo Algoritmos<br>
 Aditya Bhargava
 </td>
@@ -160,7 +160,6 @@ Aditya Bhargava
 </table>
 
 </div>
-
 ---
 
 ## 🎶 Spotify  
