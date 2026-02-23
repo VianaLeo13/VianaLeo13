@@ -96,6 +96,71 @@
 
 </div>
 
+
+---
+
+## 📚 Leituras & Desenvolvimento
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/41+eK8zBwQL._SY445_SX342_.jpg" width="140px"/><br>
+Princípios Milenares<br>
+Thiago Brunet
+</td>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/51X7dEUF4hL._SY445_SX342_.jpg" width="140px"/><br>
+Como Fazer Amigos e Influenciar Pessoas<br>
+Dale Carnegie
+</td>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/41vK5uM3NGL._SY445_SX342_.jpg" width="140px"/><br>
+O Motorista e o Milionário
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/51oXKWrcYYL._SY445_SX342_.jpg" width="140px"/><br>
+Quem Pensa Enriquece<br>
+Napoleon Hill
+</td>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/51Xxw0R1yEL._SY445_SX342_.jpg" width="140px"/><br>
+O Homem Mais Rico da Babilônia<br>
+George S. Clason
+</td>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/41SH-SvWPxL._SY445_SX342_.jpg" width="140px"/><br>
+Clean Code<br>
+Robert C. Martin
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://m.media-amazon.com/images/I/51Zymoq7UnL._SY445_SX342_.jpg" width="140px"/><br>
+Entendendo Algoritmos<br>
+Aditya Bhargava
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
 ---
 
 ## 🎶 Spotify  
@@ -107,6 +172,5 @@
 
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" 
      alt="Data Card for Spotify"/>
-
 
 
