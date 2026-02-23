@@ -6,9 +6,13 @@
 
 # 👋 Olá, eu sou o Leonardo Viana!  
 
-- 🔭 Estudante de **Engenharia de Software(5º Periodo)** na **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)**.  
-- 🌱 Aprimorando minhas técnicas em **desenvolvimento web full stack e IA**.  
-- ⚡ Curiosidade: Sou apaixonado por aprender novas **tecnologias**.  
+🎓 Estudante de Engenharia de Software (5º período) na Pontifícia Universidade Católica de Minas Gerais (PUC-MG).  
+
+🚀 Estou em busca da minha primeira oportunidade no mercado de tecnologia, onde eu possa aprender na prática, contribuir com resultados reais e crescer junto com a empresa.  
+
+💻 Tenho foco em desenvolvimento web full stack, fundamentos sólidos em engenharia de software e interesse crescente em Inteligência Artificial e CyberSecurity.  
+
+📚 Sou movido por aprendizado constante, desafios técnicos e evolução contínua. 
 
 ---
 
