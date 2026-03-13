@@ -168,16 +168,7 @@ Aditya Bhargava
 </table>
 
 </div>
----
 
-## 🎶 Spotify  
 
-<img height="20" src="https://joaopauloaramuni.github.io/image/spotify.svg"/>
-<strong> VianaLeo13 Spotify Data</strong>
-
-<br><br>
-
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sr.leonardo" 
-     alt="Data Card for Spotify"/>
 
 
