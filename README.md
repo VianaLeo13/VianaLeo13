@@ -9,6 +9,9 @@
 🌐 **Meu Portfólio:**  
 👉 https://vianaleo-dev.vercel.app/
 
+🛠️ **Atualmente, atuo como desenvolvedor no projeto de extensão WebTech da PUC Minas**  
+👉 https://github.com/webtech-network/autograder
+
 🎓 Estudante de Engenharia de Software (5º período) na Pontifícia Universidade Católica de Minas Gerais (PUC-MG).  
 
 🚀 Estou em busca da minha primeira oportunidade no mercado de tecnologia, onde eu possa aprender na prática, contribuir com resultados reais e crescer junto com a empresa.  
