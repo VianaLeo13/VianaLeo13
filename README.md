@@ -9,7 +9,7 @@
 🌐 **Meu Portfólio:**  
 👉 https://vianaleo-dev.vercel.app/
 
-🛠️ **Atualmente, atuo como desenvolvedor no projeto de extensão WebTech da PUC Minas**  
+🛠️ **Atualmente, atuo como Auditor de TechRisk na EY(Ernst & Young) e como desenvolvedor full stack no projeto de extensão WebTech da PUC Minas**  
 👉 https://github.com/webtech-network/autograder
 
 🎓 Estudante de Engenharia de Software (6º período) na Pontifícia Universidade Católica de Minas Gerais (PUC-MG).  
